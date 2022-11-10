@@ -4,7 +4,7 @@ STAGE -- 1 Registration
 
 When the user chooses to Register
 
----> email/username should have "@" and followed by "." eg:- sherlock@gmail.com nothing@yahoo.in
+---> email/username should have "@" and followed by "." eg:- sherlock@gmail.com, nothing@yahoo.in
 
 ---> it should not be like this eg:- @gmail.com there should not be any "." immediate next to "@" my@.in it should not start with special characters and numbers
 
